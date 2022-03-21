@@ -1,0 +1,13 @@
+/*Programmer Helena Rodríguez
+Version 1
+Date 09/02/22*/
+
+header, nav, section, footer{background-color:lightgray;}
+header div {height:150px ;}
+nav>div[class*="row"]{height: 540px;}
+
+.bg-blue{background-color: lightblue}
+.bg-red{background:lightcoral;}
+img{width: 100px; height: 100px;}
+a{text-decoration: none;}
+
